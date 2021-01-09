@@ -1,6 +1,6 @@
 # IEEE-Advanced-CSS-Task
 
-Checkout my recreated version at https://jyothsnaashok.github.io/IEEE-Advanced-CSS-/
+Checkout my recreated version at https://jyothsnaashok.github.io/IEEE-Advanced-CSS/
 
 
 >Reference design:
